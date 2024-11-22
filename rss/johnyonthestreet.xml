@@ -13,15 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/johnyonthestreet.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Nov 2024 23:55:02 +0000</lastBuildDate>
-    <item>
-      <title>No Title</title>
-      <link>https://tiktok.com/@johnyonthestreet/video/7433165950347775263</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_osANAPxIBiAziAxCHni6fzERkBKI8ZQA3zI1pA.image.jpg" /&gt; No Description</description>
-      <author>johnyonthestreet</author>
-      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7433165950347775263</guid>
-      <pubDate>Sun, 03 Nov 2024 21:20:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 Nov 2024 02:44:05 +0000</lastBuildDate>
     <item>
       <title>Try to guess it without using google #guess #prize #fyp </title>
       <link>https://tiktok.com/@johnyonthestreet/video/7433462505525054750</link>
@@ -293,6 +285,14 @@
       <author>johnyonthestreet</author>
       <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7439514229675232542</guid>
       <pubDate>Wed, 20 Nov 2024 23:55:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>No Title</title>
+      <link>https://tiktok.com/@johnyonthestreet/video/7439928873413905695</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_oEW5Mc9f7A3zDMMsAQv4f3oY74ipef7ggiKzfg.jpg" /&gt; No Description</description>
+      <author>johnyonthestreet</author>
+      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7439928873413905695</guid>
+      <pubDate>Fri, 22 Nov 2024 02:44:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

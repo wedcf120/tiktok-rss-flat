@@ -13,15 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/johnyonthestreet.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Nov 2024 23:56:22 +0000</lastBuildDate>
-    <item>
-      <title>No Title</title>
-      <link>https://tiktok.com/@johnyonthestreet/video/7433947766042152222</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_oQBKVInQD05ArCY0AEfEA8AA3FjmAnEEeiGRhV.image.jpg" /&gt; No Description</description>
-      <author>johnyonthestreet</author>
-      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7433947766042152222</guid>
-      <pubDate>Tue, 05 Nov 2024 23:54:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 27 Nov 2024 15:29:21 +0000</lastBuildDate>
     <item>
       <title>First person to get it in the comments gets $5</title>
       <link>https://tiktok.com/@johnyonthestreet/video/7434248809439448350</link>
@@ -285,6 +277,14 @@
       <author>johnyonthestreet</author>
       <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7441369993649900830</guid>
       <pubDate>Mon, 25 Nov 2024 23:56:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Merry Christmas 🎄🎅🏻</title>
+      <link>https://tiktok.com/@johnyonthestreet/video/7441981532610268446</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_o4vOsAA9nBEvGRYHCiFEArDPERAR08AIEefBVz.image.jpg" /&gt; Merry Christmas 🎄🎅🏻</description>
+      <author>johnyonthestreet</author>
+      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7441981532610268446</guid>
+      <pubDate>Wed, 27 Nov 2024 15:29:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

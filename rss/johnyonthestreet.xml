@@ -13,15 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/johnyonthestreet.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Nov 2024 01:32:33 +0000</lastBuildDate>
-    <item>
-      <title>No Title</title>
-      <link>https://tiktok.com/@johnyonthestreet/video/7434664835381562654</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_ogfnpWRAECDLwtUEiPFxYEAFEpArIAC9TeAVHA.image.jpg" /&gt; No Description</description>
-      <author>johnyonthestreet</author>
-      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7434664835381562654</guid>
-      <pubDate>Thu, 07 Nov 2024 22:16:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Nov 2024 23:47:09 +0000</lastBuildDate>
     <item>
       <title>It’s on her shirt…</title>
       <link>https://tiktok.com/@johnyonthestreet/video/7435008807022890271</link>
@@ -285,6 +277,14 @@
       <author>johnyonthestreet</author>
       <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7442508049895427358</guid>
       <pubDate>Fri, 29 Nov 2024 01:32:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>We’re doomed </title>
+      <link>https://tiktok.com/@johnyonthestreet/video/7442851953769483550</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_o8fSKs9AiABiA5AS2wB4KzInpEAkEUInSikCBM.image.jpg" /&gt; We’re doomed </description>
+      <author>johnyonthestreet</author>
+      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7442851953769483550</guid>
+      <pubDate>Fri, 29 Nov 2024 23:47:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

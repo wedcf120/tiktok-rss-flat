@@ -13,15 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/johnyonthestreet.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Nov 2024 02:17:50 +0000</lastBuildDate>
-    <item>
-      <title>What am I?</title>
-      <link>https://tiktok.com/@johnyonthestreet/video/7435095176453934367</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_oo2wE4OLAOvRAEk7nAIAQZFEEeEuVsfwCYADDA.image.jpg" /&gt; What am I?</description>
-      <author>johnyonthestreet</author>
-      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7435095176453934367</guid>
-      <pubDate>Sat, 09 Nov 2024 02:06:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 30 Nov 2024 19:58:54 +0000</lastBuildDate>
     <item>
       <title>No Title</title>
       <link>https://tiktok.com/@johnyonthestreet/video/7436079711727422750</link>
@@ -285,6 +277,14 @@
       <author>johnyonthestreet</author>
       <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7442890805167099167</guid>
       <pubDate>Sat, 30 Nov 2024 02:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>That’s illegal </title>
+      <link>https://tiktok.com/@johnyonthestreet/video/7443164234415918367</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_owBECAn3iiAIypAAIIUBKfnbbbbAcxzLPitPBn.image.jpg" /&gt; That’s illegal </description>
+      <author>johnyonthestreet</author>
+      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7443164234415918367</guid>
+      <pubDate>Sat, 30 Nov 2024 19:58:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

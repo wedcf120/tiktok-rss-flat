@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/ghost.racing.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Dec 2024 19:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 01:05:23 +0000</lastBuildDate>
+    <item>
+      <title>Next Stop… Chicago #ghost </title>
+      <link>https://tiktok.com/@ghost.racing/video/7371078136445898030</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/ghost.racing/screenshot_26cbe6efac1f4651863b45799c8455f0_1716212896.jpg" /&gt; Next Stop… Chicago #ghost </description>
+      <author>ghost.racing</author>
+      <guid isPermaLink="false">https://tiktok.com/@ghost.racing/video/7371078136445898030</guid>
+      <pubDate>Mon, 20 May 2024 13:48:15 +0000</pubDate>
+    </item>
     <item>
       <title>No Title</title>
       <link>https://tiktok.com/@ghost.racing/video/7372937056735251758</link>
@@ -269,14 +277,6 @@
       <author>ghost.racing</author>
       <guid isPermaLink="false">https://tiktok.com/@ghost.racing/video/7443243260824276270</guid>
       <pubDate>Sun, 01 Dec 2024 01:05:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>ATL nights 😈 #ghost </title>
-      <link>https://tiktok.com/@ghost.racing/video/7443899008935841067</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/ghost.racing/screenshot_9ca58cbf91b64a1fb19d42a3574c4e7c_1733167805.jpg" /&gt; ATL nights 😈 #ghost </description>
-      <author>ghost.racing</author>
-      <guid isPermaLink="false">https://tiktok.com/@ghost.racing/video/7443899008935841067</guid>
-      <pubDate>Mon, 02 Dec 2024 19:30:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

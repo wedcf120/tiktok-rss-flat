@@ -13,15 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/johnyonthestreet.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Dec 2024 03:55:57 +0000</lastBuildDate>
-    <item>
-      <title>No Title</title>
-      <link>https://tiktok.com/@johnyonthestreet/video/7436444906689809695</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_owE5An4C7J9EEgFR4tIAtuAVxjAfTbezAAME1D.image.jpg" /&gt; No Description</description>
-      <author>johnyonthestreet</author>
-      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7436444906689809695</guid>
-      <pubDate>Tue, 12 Nov 2024 17:24:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Dec 2024 00:38:54 +0000</lastBuildDate>
     <item>
       <title>No Title</title>
       <link>https://tiktok.com/@johnyonthestreet/video/7436571826848795935</link>
@@ -285,6 +277,14 @@
       <author>johnyonthestreet</author>
       <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7443658247325666590</guid>
       <pubDate>Mon, 02 Dec 2024 03:55:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>I can’t believe he lost both times</title>
+      <link>https://tiktok.com/@johnyonthestreet/video/7443978607594130734</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_oUADAjvcgmnQfCiA4CDlYIcZSTpREMFgAfMEsO.image.jpg" /&gt; I can’t believe he lost both times</description>
+      <author>johnyonthestreet</author>
+      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7443978607594130734</guid>
+      <pubDate>Tue, 03 Dec 2024 00:38:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

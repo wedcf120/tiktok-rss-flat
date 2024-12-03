@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/johnyonthestreet.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Dec 2024 03:55:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 21:13:52 +0000</lastBuildDate>
+    <item>
+      <title>Who guessed it right ?</title>
+      <link>https://tiktok.com/@johnyonthestreet/video/7436195486438116638</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_oQ6AX2ruAHxEqtVnRFyCEcedGEI4EAFyAAAMfD.image.jpg" /&gt; Who guessed it right ?</description>
+      <author>johnyonthestreet</author>
+      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7436195486438116638</guid>
+      <pubDate>Tue, 12 Nov 2024 01:16:33 +0000</pubDate>
+    </item>
     <item>
       <title>No Title</title>
       <link>https://tiktok.com/@johnyonthestreet/video/7436444906689809695</link>
@@ -277,14 +285,6 @@
       <author>johnyonthestreet</author>
       <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7443554625665453342</guid>
       <pubDate>Sun, 01 Dec 2024 21:13:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>She sounded like she’s interested….</title>
-      <link>https://tiktok.com/@johnyonthestreet/video/7443658247325666590</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_oIVCTPOABSkBrC59AAAR8lffEdEiNLinAEEIAu.image.jpg" /&gt; She sounded like she’s interested….</description>
-      <author>johnyonthestreet</author>
-      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7443658247325666590</guid>
-      <pubDate>Mon, 02 Dec 2024 03:55:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

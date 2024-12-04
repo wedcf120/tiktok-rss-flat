@@ -13,15 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/johnyonthestreet.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Dec 2024 23:41:12 +0000</lastBuildDate>
-    <item>
-      <title>No Title</title>
-      <link>https://tiktok.com/@johnyonthestreet/video/7436444906689809695</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_owE5An4C7J9EEgFR4tIAtuAVxjAfTbezAAME1D.image.jpg" /&gt; No Description</description>
-      <author>johnyonthestreet</author>
-      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7436444906689809695</guid>
-      <pubDate>Tue, 12 Nov 2024 17:24:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 04 Dec 2024 16:29:36 +0000</lastBuildDate>
     <item>
       <title>No Title</title>
       <link>https://tiktok.com/@johnyonthestreet/video/7436571826848795935</link>
@@ -285,6 +277,14 @@
       <author>johnyonthestreet</author>
       <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7444334815924751662</guid>
       <pubDate>Tue, 03 Dec 2024 23:41:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>She chose the wrong gift</title>
+      <link>https://tiktok.com/@johnyonthestreet/video/7444594678936145195</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_oQL2tAfdQA3UOwfAIf3gCGBJI7heQVyARVkAIG.jpg" /&gt; She chose the wrong gift</description>
+      <author>johnyonthestreet</author>
+      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7444594678936145195</guid>
+      <pubDate>Wed, 04 Dec 2024 16:29:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

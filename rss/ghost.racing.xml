@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/ghost.racing.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Dec 2024 18:39:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 22:29:42 +0000</lastBuildDate>
+    <item>
+      <title>@Joe #ghostracing </title>
+      <link>https://tiktok.com/@ghost.racing/video/7370445360415739178</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/ghost.racing/screenshot_9c7e71c37fdc46ef9a2cfc86f7678afa~tplv-photomode-image.jpeg.jpg" /&gt; @Joe #ghostracing </description>
+      <author>ghost.racing</author>
+      <guid isPermaLink="false">https://tiktok.com/@ghost.racing/video/7370445360415739178</guid>
+      <pubDate>Sat, 18 May 2024 20:52:27 +0000</pubDate>
+    </item>
     <item>
       <title>Next Stop… Chicago #ghost </title>
       <link>https://tiktok.com/@ghost.racing/video/7371078136445898030</link>
@@ -269,14 +277,6 @@
       <author>ghost.racing</author>
       <guid isPermaLink="false">https://tiktok.com/@ghost.racing/video/7440976622708215083</guid>
       <pubDate>Sun, 24 Nov 2024 22:29:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ghost on VHS 👾 #atlanta </title>
-      <link>https://tiktok.com/@ghost.racing/video/7445741287929548075</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/ghost.racing/screenshot_oQfEAWkBJnfSEgERlVCFNELDCgA2VIRUZmSAAD.jpg" /&gt; Ghost on VHS 👾 #atlanta </description>
-      <author>ghost.racing</author>
-      <guid isPermaLink="false">https://tiktok.com/@ghost.racing/video/7445741287929548075</guid>
-      <pubDate>Sat, 07 Dec 2024 18:39:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

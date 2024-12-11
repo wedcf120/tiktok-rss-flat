@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/thes1kdemon.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Dec 2024 15:59:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 20:40:36 +0000</lastBuildDate>
+    <item>
+      <title>No Title</title>
+      <link>https://tiktok.com/@thes1kdemon/video/7394928423547850026</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/thes1kdemon/screenshot_6f991ea620e74619b64536db94819535~tplv-photomode-image.jpeg.jpg" /&gt; No Description</description>
+      <author>thes1kdemon</author>
+      <guid isPermaLink="false">https://tiktok.com/@thes1kdemon/video/7394928423547850026</guid>
+      <pubDate>Tue, 23 Jul 2024 20:19:12 +0000</pubDate>
+    </item>
     <item>
       <title>No Title</title>
       <link>https://tiktok.com/@thes1kdemon/video/7396132489959312683</link>
@@ -269,14 +277,6 @@
       <author>thes1kdemon</author>
       <guid isPermaLink="false">https://tiktok.com/@thes1kdemon/video/7445401529558813998</guid>
       <pubDate>Fri, 06 Dec 2024 20:40:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>No Title</title>
-      <link>https://tiktok.com/@thes1kdemon/video/7447184534329625902</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/thes1kdemon/screenshot_8dc324c7af5640e69ecb724dcbe4ada2~tplv-photomode-image.jpeg.jpg" /&gt; No Description</description>
-      <author>thes1kdemon</author>
-      <guid isPermaLink="false">https://tiktok.com/@thes1kdemon/video/7447184534329625902</guid>
-      <pubDate>Wed, 11 Dec 2024 15:59:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

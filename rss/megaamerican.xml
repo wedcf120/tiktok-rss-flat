@@ -13,15 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/megaamerican.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Dec 2024 18:50:30 +0000</lastBuildDate>
-    <item>
-      <title>No Title</title>
-      <link>https://tiktok.com/@megaamerican/video/7449162559644503338</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/megaamerican/screenshot_oYFHCrOgCYpGsC9eAvkeXeIULIAjmGwDRYN2TQ.jpg" /&gt; No Description</description>
-      <author>megaamerican</author>
-      <guid isPermaLink="false">https://tiktok.com/@megaamerican/video/7449162559644503338</guid>
-      <pubDate>Mon, 16 Dec 2024 23:55:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Dec 2024 22:10:51 +0000</lastBuildDate>
     <item>
       <title>No Title</title>
       <link>https://tiktok.com/@megaamerican/video/7449202189001559338</link>
@@ -293,6 +285,14 @@
       <author>megaamerican</author>
       <guid isPermaLink="false">https://tiktok.com/@megaamerican/video/7452423783752863022</guid>
       <pubDate>Wed, 25 Dec 2024 18:50:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>No Title</title>
+      <link>https://tiktok.com/@megaamerican/video/7452475412749323563</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/megaamerican/screenshot_os8U8DHE2sFID3JfEgrsqSnugdRzbAUXEIfBCn.jpg" /&gt; No Description</description>
+      <author>megaamerican</author>
+      <guid isPermaLink="false">https://tiktok.com/@megaamerican/video/7452475412749323563</guid>
+      <pubDate>Wed, 25 Dec 2024 22:10:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -13,15 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/johnyonthestreet.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jan 2025 20:31:46 +0000</lastBuildDate>
-    <item>
-      <title>No Title</title>
-      <link>https://tiktok.com/@johnyonthestreet/video/7447557943760817451</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_oAEAEDAFyIAgCRAgwcEWpqQwRkFDDfSCSQen62.jpg" /&gt; No Description</description>
-      <author>johnyonthestreet</author>
-      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7447557943760817451</guid>
-      <pubDate>Thu, 12 Dec 2024 16:08:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Jan 2025 06:25:20 +0000</lastBuildDate>
     <item>
       <title>Going to be pretty busy for the next week or so #rizz #him #game #pickupline </title>
       <link>https://tiktok.com/@johnyonthestreet/video/7447602528629296427</link>
@@ -293,6 +285,14 @@
       <author>johnyonthestreet</author>
       <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7455418528250744094</guid>
       <pubDate>Thu, 02 Jan 2025 20:31:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>No Title</title>
+      <link>https://tiktok.com/@johnyonthestreet/video/7455571477291830574</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_oQAf4FLxAZrR8Dp7Q6BDPkAYDeEEdnXSgACvI5.jpg" /&gt; No Description</description>
+      <author>johnyonthestreet</author>
+      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7455571477291830574</guid>
+      <pubDate>Fri, 03 Jan 2025 06:25:20 +0000</pubDate>
     </item>
   </channel>
 </rss>

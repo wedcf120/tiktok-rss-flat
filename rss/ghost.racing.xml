@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/ghost.racing.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jan 2025 16:20:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 00:34:24 +0000</lastBuildDate>
+    <item>
+      <title>Chicago… June 8th 📍 #ghost </title>
+      <link>https://tiktok.com/@ghost.racing/video/7374418286479510827</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/ghost.racing/screenshot_cc97a23923784f39834243da5f0cbd85_1716990569.jpg" /&gt; Chicago… June 8th 📍 #ghost </description>
+      <author>ghost.racing</author>
+      <guid isPermaLink="false">https://tiktok.com/@ghost.racing/video/7374418286479510827</guid>
+      <pubDate>Wed, 29 May 2024 13:49:27 +0000</pubDate>
+    </item>
     <item>
       <title>Chicago… June 8th #ghost </title>
       <link>https://tiktok.com/@ghost.racing/video/7376286588445232426</link>
@@ -269,14 +277,6 @@
       <author>ghost.racing</author>
       <guid isPermaLink="false">https://tiktok.com/@ghost.racing/video/7456223229120679214</guid>
       <pubDate>Sun, 05 Jan 2025 00:34:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Goodluck to everyone 👾😈 @Maxx Brunetta @David Gjokaj </title>
-      <link>https://tiktok.com/@ghost.racing/video/7456467016275234090</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/ghost.racing/screenshot_owjBEHILA5AIoAUO0rkFEFNeEEhfVAg6dADsIe.jpg" /&gt; Goodluck to everyone 👾😈 @Maxx Brunetta @David Gjokaj </description>
-      <author>ghost.racing</author>
-      <guid isPermaLink="false">https://tiktok.com/@ghost.racing/video/7456467016275234090</guid>
-      <pubDate>Sun, 05 Jan 2025 16:20:26 +0000</pubDate>
     </item>
   </channel>
 </rss>

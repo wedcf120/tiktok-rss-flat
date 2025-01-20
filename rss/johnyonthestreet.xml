@@ -13,15 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/johnyonthestreet.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jan 2025 03:21:24 +0000</lastBuildDate>
-    <item>
-      <title>No Title</title>
-      <link>https://tiktok.com/@johnyonthestreet/video/7455116271332511022</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_o4sGIArEjkNfRTDWyAAeIQA6IA7OthDfLJZHFE.jpg" /&gt; No Description</description>
-      <author>johnyonthestreet</author>
-      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7455116271332511022</guid>
-      <pubDate>Thu, 02 Jan 2025 00:58:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Jan 2025 21:36:26 +0000</lastBuildDate>
     <item>
       <title>I don’t get it man </title>
       <link>https://tiktok.com/@johnyonthestreet/video/7455209804684889390</link>
@@ -287,12 +279,20 @@
       <pubDate>Sat, 18 Jan 2025 22:35:35 +0000</pubDate>
     </item>
     <item>
-      <title>It’s been a fun run </title>
-      <link>https://tiktok.com/@johnyonthestreet/video/7461461481088077102</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_oUBCEMZBiynbPVAd5CUCxRgI28uP24iuU4I9g.jpg" /&gt; It’s been a fun run </description>
+      <title>No Title</title>
+      <link>https://tiktok.com/@johnyonthestreet/video/7461730636299078954</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_oIDkAEoASIZjDFVEQSOfCmSIwRAeCRgyNnEWAD.jpg" /&gt; No Description</description>
       <author>johnyonthestreet</author>
-      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7461461481088077102</guid>
-      <pubDate>Sun, 19 Jan 2025 03:21:24 +0000</pubDate>
+      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7461730636299078954</guid>
+      <pubDate>Sun, 19 Jan 2025 20:45:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Take notes fellas, they don’t like flags #publicinterview </title>
+      <link>https://tiktok.com/@johnyonthestreet/video/7461743558673042734</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_oAee4uxkGEHLoiCIAQGAfAAGtZCALPgZGIjaIE.jpg" /&gt; Take notes fellas, they don’t like flags #publicinterview </description>
+      <author>johnyonthestreet</author>
+      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7461743558673042734</guid>
+      <pubDate>Sun, 19 Jan 2025 21:36:26 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -13,15 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/johnyonthestreet.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jan 2025 18:29:23 +0000</lastBuildDate>
-    <item>
-      <title>Mine</title>
-      <link>https://tiktok.com/@johnyonthestreet/video/7457184687849622815</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_oYAfTF41AhNjVDoeIKPIVmAxBiEIfOGqAAE9EY.jpg" /&gt; Mine</description>
-      <author>johnyonthestreet</author>
-      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7457184687849622815</guid>
-      <pubDate>Tue, 07 Jan 2025 14:45:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Jan 2025 03:38:18 +0000</lastBuildDate>
     <item>
       <title>What would you rate her? #fyp #challenge </title>
       <link>https://tiktok.com/@johnyonthestreet/video/7457345918896000298</link>
@@ -293,6 +285,14 @@
       <author>johnyonthestreet</author>
       <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7463179769140497710</guid>
       <pubDate>Thu, 23 Jan 2025 18:29:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>No Title</title>
+      <link>https://tiktok.com/@johnyonthestreet/video/7463321136198339886</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_oACDsyDkFAdpkCTCARBJACeEVs0EISAfgnwbEE.jpg" /&gt; No Description</description>
+      <author>johnyonthestreet</author>
+      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7463321136198339886</guid>
+      <pubDate>Fri, 24 Jan 2025 03:38:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

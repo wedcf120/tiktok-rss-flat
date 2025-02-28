@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/ghost.racing.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Feb 2025 16:18:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 17:05:52 +0000</lastBuildDate>
+    <item>
+      <title>#ghost </title>
+      <link>https://tiktok.com/@ghost.racing/video/7388543467238116654</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/ghost.racing/screenshot_123505a1fd4a473687db990d9de0f2ea~tplv-photomode-image.jpeg.jpg" /&gt; #ghost </description>
+      <author>ghost.racing</author>
+      <guid isPermaLink="false">https://tiktok.com/@ghost.racing/video/7388543467238116654</guid>
+      <pubDate>Sat, 06 Jul 2024 15:22:20 +0000</pubDate>
+    </item>
     <item>
       <title>Detroit 👊🏽 #ghost </title>
       <link>https://tiktok.com/@ghost.racing/video/7390749903934360878</link>
@@ -277,14 +285,6 @@
       <author>ghost.racing</author>
       <guid isPermaLink="false">https://tiktok.com/@ghost.racing/video/7474661771656203566</guid>
       <pubDate>Sun, 23 Feb 2025 17:05:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Winner Day!!! Who do you think won our 2022 ZX10R + 5k💰</title>
-      <link>https://tiktok.com/@ghost.racing/video/7475762818889944362</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/ghost.racing/screenshot_okPznDQ46ADCgcA9I2FEC16fiSFrRvyEzAcmfA.jpg" /&gt; Winner Day!!! Who do you think won our 2022 ZX10R + 5k💰</description>
-      <author>ghost.racing</author>
-      <guid isPermaLink="false">https://tiktok.com/@ghost.racing/video/7475762818889944362</guid>
-      <pubDate>Wed, 26 Feb 2025 16:18:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

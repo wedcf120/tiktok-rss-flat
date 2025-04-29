@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/johnyonthestreet.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Apr 2025 01:05:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 17:41:40 +0000</lastBuildDate>
+    <item>
+      <title>No Title</title>
+      <link>https://tiktok.com/@johnyonthestreet/video/7474302421624278314</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_oA6Sw3BAAIzAiCEdUJfBIYM4p0xlDQCzAiBHHE.jpg" /&gt; No Description</description>
+      <author>johnyonthestreet</author>
+      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7474302421624278314</guid>
+      <pubDate>Sat, 22 Feb 2025 17:51:22 +0000</pubDate>
+    </item>
     <item>
       <title>Group chat rizz</title>
       <link>https://tiktok.com/@johnyonthestreet/video/7474385532106149162</link>
@@ -285,14 +293,6 @@
       <author>johnyonthestreet</author>
       <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7498049377471089962</guid>
       <pubDate>Sun, 27 Apr 2025 17:41:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>What would you do? #fyp #interview #college </title>
-      <link>https://tiktok.com/@johnyonthestreet/video/7498534955354574123</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_ooJBCLDAABkBJuyWAAAIdtfLCdBiQJi0wE1I5u.jpg" /&gt; What would you do? #fyp #interview #college </description>
-      <author>johnyonthestreet</author>
-      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7498534955354574123</guid>
-      <pubDate>Tue, 29 Apr 2025 01:05:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

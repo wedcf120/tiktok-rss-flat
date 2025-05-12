@@ -13,15 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/motoloot.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 10 May 2025 21:41:42 +0000</lastBuildDate>
-    <item>
-      <title>Gotta share!</title>
-      <link>https://tiktok.com/@motoloot/video/7488763701307116820</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/motoloot/screenshot_o07rsbYEfhgySuMhdLttedvgAfYGieAlrA4je0.jpg" /&gt; Gotta share!</description>
-      <author>motoloot</author>
-      <guid isPermaLink="false">https://tiktok.com/@motoloot/video/7488763701307116820</guid>
-      <pubDate>Wed, 02 Apr 2025 17:08:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 May 2025 00:44:49 +0000</lastBuildDate>
     <item>
       <title>Surely not?</title>
       <link>https://tiktok.com/@motoloot/video/7489183310074187015</link>
@@ -293,6 +285,14 @@
       <author>motoloot</author>
       <guid isPermaLink="false">https://tiktok.com/@motoloot/video/7502935464781958418</guid>
       <pubDate>Sat, 10 May 2025 21:41:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ever seen anything like it?</title>
+      <link>https://tiktok.com/@motoloot/video/7503353741882510610</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/motoloot/screenshot_oU5hTNiIffr4DQEIyCLQARUGA8okCDTGeoQEyV.jpg" /&gt; Ever seen anything like it?</description>
+      <author>motoloot</author>
+      <guid isPermaLink="false">https://tiktok.com/@motoloot/video/7503353741882510610</guid>
+      <pubDate>Mon, 12 May 2025 00:44:49 +0000</pubDate>
     </item>
   </channel>
 </rss>

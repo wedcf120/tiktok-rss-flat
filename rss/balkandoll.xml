@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/balkandoll.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 12 May 2025 05:22:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 23:57:36 +0000</lastBuildDate>
+    <item>
+      <title>No Title</title>
+      <link>https://tiktok.com/@balkandoll/video/7488807222420491551</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/balkandoll/screenshot_oYAAwi2VziAglLi4ABBWDPXeiAWEKIPIoCMytC.jpg" /&gt; No Description</description>
+      <author>balkandoll</author>
+      <guid isPermaLink="false">https://tiktok.com/@balkandoll/video/7488807222420491551</guid>
+      <pubDate>Wed, 02 Apr 2025 19:56:57 +0000</pubDate>
+    </item>
     <item>
       <title>No Title</title>
       <link>https://tiktok.com/@balkandoll/video/7489648962283064607</link>
@@ -285,14 +293,6 @@
       <author>balkandoll</author>
       <guid isPermaLink="false">https://tiktok.com/@balkandoll/video/7503341512290323742</guid>
       <pubDate>Sun, 11 May 2025 23:57:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>#ninja400 #kawasaki </title>
-      <link>https://tiktok.com/@balkandoll/video/7503425232422718751</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/balkandoll/screenshot_69b50d9675d6464cb7102250b218dee0~tplv-photomode-image.jpeg.jpg" /&gt; #ninja400 #kawasaki </description>
-      <author>balkandoll</author>
-      <guid isPermaLink="false">https://tiktok.com/@balkandoll/video/7503425232422718751</guid>
-      <pubDate>Mon, 12 May 2025 05:22:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

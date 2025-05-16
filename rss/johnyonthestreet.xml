@@ -13,15 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/johnyonthestreet.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 15 May 2025 06:51:09 +0000</lastBuildDate>
-    <item>
-      <title>No Title</title>
-      <link>https://tiktok.com/@johnyonthestreet/video/7475952847897513259</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_oo6ipIuGAeASIdMLeAeMcAAuIHf86fQs9VqF0Q.jpg" /&gt; No Description</description>
-      <author>johnyonthestreet</author>
-      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7475952847897513259</guid>
-      <pubDate>Thu, 27 Feb 2025 04:35:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 May 2025 19:26:54 +0000</lastBuildDate>
     <item>
       <title>Surprising my camera man with new shoes ! #fyp #challege #sneakers #giveaway </title>
       <link>https://tiktok.com/@johnyonthestreet/video/7476117164395760942</link>
@@ -293,6 +285,14 @@
       <author>johnyonthestreet</author>
       <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7504560925316320558</guid>
       <pubDate>Thu, 15 May 2025 06:51:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>No Title</title>
+      <link>https://tiktok.com/@johnyonthestreet/video/7504756119487925550</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_ooCfQIIGATeOM63AfgPYR4QgfALWMGAm67JVYA.jpg" /&gt; No Description</description>
+      <author>johnyonthestreet</author>
+      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7504756119487925550</guid>
+      <pubDate>Thu, 15 May 2025 19:26:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

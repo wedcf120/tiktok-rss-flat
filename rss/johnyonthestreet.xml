@@ -13,15 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/johnyonthestreet.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 30 May 2025 21:41:27 +0000</lastBuildDate>
-    <item>
-      <title>No Title</title>
-      <link>https://tiktok.com/@johnyonthestreet/video/7475191111322111278</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_ogn40ECBvANggc7sAZQA1EbksA92ii7ZIABtq.jpg" /&gt; No Description</description>
-      <author>johnyonthestreet</author>
-      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7475191111322111278</guid>
-      <pubDate>Tue, 25 Feb 2025 03:19:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 31 May 2025 20:21:03 +0000</lastBuildDate>
     <item>
       <title>No Title</title>
       <link>https://tiktok.com/@johnyonthestreet/video/7475425652938689835</link>
@@ -293,6 +285,14 @@
       <author>johnyonthestreet</author>
       <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7510356988665072939</guid>
       <pubDate>Fri, 30 May 2025 21:41:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>No Title</title>
+      <link>https://tiktok.com/@johnyonthestreet/video/7510707394859601182</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/johnyonthestreet/screenshot_owBRDEArIzoAAeEVQC2ArVFASOCgyEf2kwAtSt.jpg" /&gt; No Description</description>
+      <author>johnyonthestreet</author>
+      <guid isPermaLink="false">https://tiktok.com/@johnyonthestreet/video/7510707394859601182</guid>
+      <pubDate>Sat, 31 May 2025 20:21:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

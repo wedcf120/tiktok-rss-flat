@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/ghost.racing.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Jun 2025 14:36:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 14:13:49 +0000</lastBuildDate>
+    <item>
+      <title>my favorite song right now #ghost </title>
+      <link>https://tiktok.com/@ghost.racing/video/7418205997816106282</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/ghost.racing/screenshot_ab8ea5d398844c7f95ac7ec56efa510f_1727185685~tplv-tiktokx-origin.image.jpg" /&gt; my favorite song right now #ghost </description>
+      <author>ghost.racing</author>
+      <guid isPermaLink="false">https://tiktok.com/@ghost.racing/video/7418205997816106282</guid>
+      <pubDate>Tue, 24 Sep 2024 13:48:04 +0000</pubDate>
+    </item>
     <item>
       <title>PROJECT GHOST… 👻</title>
       <link>https://tiktok.com/@ghost.racing/video/7419716903167429931</link>
@@ -277,14 +285,6 @@
       <author>ghost.racing</author>
       <guid isPermaLink="false">https://tiktok.com/@ghost.racing/video/7513952529298820383</guid>
       <pubDate>Mon, 09 Jun 2025 14:13:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Go Fast Boyz #ghost </title>
-      <link>https://tiktok.com/@ghost.racing/video/7515442767405813023</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/ghost.racing/screenshot_oAAADIAqMeoA11oN2RENCFTERE2D6AdVCEfBRL~tplv-tiktokx-origin.image.jpg" /&gt; Go Fast Boyz #ghost </description>
-      <author>ghost.racing</author>
-      <guid isPermaLink="false">https://tiktok.com/@ghost.racing/video/7515442767405813023</guid>
-      <pubDate>Fri, 13 Jun 2025 14:36:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

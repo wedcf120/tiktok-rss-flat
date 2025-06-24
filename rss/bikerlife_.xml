@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>bikerlife_ TikTok</title>
+    <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/bikerlife_.xml</link>
+    <description>OK Boomer, all the latest TikToks from bikerlife_</description>
+    <atom:link href="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/bikerlife_.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/tiktok-rss.png</url>
+      <title>bikerlife_ TikTok</title>
+      <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/bikerlife_.xml</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Jun 2025 21:11:50 +0000</lastBuildDate>
+    <item>
+      <title>These are my fav 😍 | #yamaha #aprilia #honda #ducati #ktm #bmw #suzuki #kawasaki #foryoupage #relatable #fyp #motorcycle #bikergirl #bikers #bikerlife #viral #real #fypシ゚ #xzyabc </title>
+      <link>https://tiktok.com/@bikerlife_/video/7518542847537204502</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/bikerlife_/screenshot_13e67b156d674cbeab8c8778a7dc4d24~tplv-photomode-image.jpeg.jpg" /&gt; These are my fav 😍 | #yamaha #aprilia #honda #ducati #ktm #bmw #suzuki #kawasaki #foryoupage #relatable #fyp #motorcycle #bikergirl #bikers #bikerlife #viral #real #fypシ゚ #xzyabc </description>
+      <author>bikerlife_</author>
+      <guid isPermaLink="false">https://tiktok.com/@bikerlife_/video/7518542847537204502</guid>
+      <pubDate>Sat, 21 Jun 2025 23:06:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>#yamaha #yamahaR7 #yamahaR6 #bmw #bmw1000rr #bikergirl #bikerboy #motorcycle #suzuki #aprilia #kawaski #foryoupage #relatable #fyp #viral #real #fypシ゚ #xzyabc #foryou #07 #bikerlife </title>
+      <link>https://tiktok.com/@bikerlife_/video/7519255534529203478</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/bikerlife_/screenshot_5d685187e17a400c92b8dc0bcd7cd565~tplv-photomode-image.jpeg.jpg" /&gt; #yamaha #yamahaR7 #yamahaR6 #bmw #bmw1000rr #bikergirl #bikerboy #motorcycle #suzuki #aprilia #kawaski #foryoupage #relatable #fyp #viral #real #fypシ゚ #xzyabc #foryou #07 #bikerlife </description>
+      <author>bikerlife_</author>
+      <guid isPermaLink="false">https://tiktok.com/@bikerlife_/video/7519255534529203478</guid>
+      <pubDate>Mon, 23 Jun 2025 21:11:50 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

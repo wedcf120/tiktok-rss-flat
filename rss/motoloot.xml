@@ -13,15 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/motoloot.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Jul 2025 00:42:15 +0000</lastBuildDate>
-    <item>
-      <title>Gotta make people smile :D</title>
-      <link>https://tiktok.com/@motoloot/video/7516665694470032648</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/motoloot/screenshot_oMAfRFeYA4XrCDjsImjDAnAeBLEEoQUoAAEQEd~tplv-tiktokx-origin.image.jpg" /&gt; Gotta make people smile :D</description>
-      <author>motoloot</author>
-      <guid isPermaLink="false">https://tiktok.com/@motoloot/video/7516665694470032648</guid>
-      <pubDate>Mon, 16 Jun 2025 21:42:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Jul 2025 02:00:39 +0000</lastBuildDate>
     <item>
       <title>Wonder what they wanted.</title>
       <link>https://tiktok.com/@motoloot/video/7517049865025637640</link>
@@ -293,6 +285,14 @@
       <author>motoloot</author>
       <guid isPermaLink="false">https://tiktok.com/@motoloot/video/7527844702234709255</guid>
       <pubDate>Thu, 17 Jul 2025 00:42:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Who?</title>
+      <link>https://tiktok.com/@motoloot/video/7528235985788865800</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/motoloot/screenshot_o8BiTqvsEjyBKnPBX5HBfA8KVgAiAANwAGr0Iu~tplv-tiktokx-origin.image.jpg" /&gt; Who?</description>
+      <author>motoloot</author>
+      <guid isPermaLink="false">https://tiktok.com/@motoloot/video/7528235985788865800</guid>
+      <pubDate>Fri, 18 Jul 2025 02:00:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

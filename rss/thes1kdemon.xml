@@ -13,15 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/thes1kdemon.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Jul 2025 12:59:23 +0000</lastBuildDate>
-    <item>
-      <title>No Title</title>
-      <link>https://tiktok.com/@thes1kdemon/video/7430774683395558698</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/thes1kdemon/screenshot_e34da19b77dd4579af8e7980dbb2150a_1730112075~tplv-tiktokx-origin.image.jpg" /&gt; No Description</description>
-      <author>thes1kdemon</author>
-      <guid isPermaLink="false">https://tiktok.com/@thes1kdemon/video/7430774683395558698</guid>
-      <pubDate>Mon, 28 Oct 2024 10:41:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Jul 2025 15:48:26 +0000</lastBuildDate>
     <item>
       <title>Imma just leave this here</title>
       <link>https://tiktok.com/@thes1kdemon/video/7433869471753751851</link>
@@ -293,6 +285,14 @@
       <author>thes1kdemon</author>
       <guid isPermaLink="false">https://tiktok.com/@thes1kdemon/video/7529147579515391287</guid>
       <pubDate>Sun, 20 Jul 2025 12:59:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>No Title</title>
+      <link>https://tiktok.com/@thes1kdemon/video/7530304699426262327</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/thes1kdemon/screenshot_7d941a97c5b147ca895e768433838019~tplv-photomode-image.jpeg.jpg" /&gt; No Description</description>
+      <author>thes1kdemon</author>
+      <guid isPermaLink="false">https://tiktok.com/@thes1kdemon/video/7530304699426262327</guid>
+      <pubDate>Wed, 23 Jul 2025 15:48:26 +0000</pubDate>
     </item>
   </channel>
 </rss>

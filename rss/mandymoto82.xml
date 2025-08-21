@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>mandymoto82 TikTok</title>
+    <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/mandymoto82.xml</link>
+    <description>OK Boomer, all the latest TikToks from mandymoto82</description>
+    <atom:link href="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/mandymoto82.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/tiktok-rss.png</url>
+      <title>mandymoto82 TikTok</title>
+      <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/mandymoto82.xml</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 Aug 2025 19:48:55 +0000</lastBuildDate>
+    <item>
+      <title>First post🤷‍♀️. #MotorcycleVibes #NightRide #FirstPost #BikeTherapy #MoodyVibes #MotoGirl #RideWithMe </title>
+      <link>https://tiktok.com/@mandymoto82/video/7535851028760087814</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/mandymoto82/screenshot_oglaCUSAqU4SBJAUiiuvJIII5muOw7BBWAE6Q~tplv-tiktokx-origin.image.jpg" /&gt; First post🤷‍♀️. #MotorcycleVibes #NightRide #FirstPost #BikeTherapy #MoodyVibes #MotoGirl #RideWithMe </description>
+      <author>mandymoto82</author>
+      <guid isPermaLink="false">https://tiktok.com/@mandymoto82/video/7535851028760087814</guid>
+      <pubDate>Thu, 07 Aug 2025 14:30:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>I ACTUALLY CANT RIGHT NOW😭😭 #motorcycle #NightRide #MotoGirl #funny #biketok #MotorcycleVibes </title>
+      <link>https://tiktok.com/@mandymoto82/video/7535871699003116805</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/mandymoto82/screenshot_ogGUU2eRAfdZRLyIZ0eCAlSvIKICyIpgjtGrjn~tplv-tiktokx-origin.image.jpg" /&gt; I ACTUALLY CANT RIGHT NOW😭😭 #motorcycle #NightRide #MotoGirl #funny #biketok #MotorcycleVibes </description>
+      <author>mandymoto82</author>
+      <guid isPermaLink="false">https://tiktok.com/@mandymoto82/video/7535871699003116805</guid>
+      <pubDate>Thu, 07 Aug 2025 15:51:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sorry…he won’t move out the way🥹 #motorcycle #MotoGirl #funny #biketok #sofarsofake </title>
+      <link>https://tiktok.com/@mandymoto82/video/7540386016167808274</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/mandymoto82/screenshot_ogSSq8A4EiJUXUAAm10CkBSBUIU9KaAfwA3iCI.image.jpg" /&gt; Sorry…he won’t move out the way🥹 #motorcycle #MotoGirl #funny #biketok #sofarsofake </description>
+      <author>mandymoto82</author>
+      <guid isPermaLink="false">https://tiktok.com/@mandymoto82/video/7540386016167808274</guid>
+      <pubDate>Tue, 19 Aug 2025 19:48:55 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

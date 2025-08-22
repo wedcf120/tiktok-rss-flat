@@ -13,15 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/motoloot.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Aug 2025 02:12:19 +0000</lastBuildDate>
-    <item>
-      <title>Who?</title>
-      <link>https://tiktok.com/@motoloot/video/7528235985788865800</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/motoloot/screenshot_o8BiTqvsEjyBKnPBX5HBfA8KVgAiAANwAGr0Iu~tplv-tiktokx-origin.image.jpg" /&gt; Who?</description>
-      <author>motoloot</author>
-      <guid isPermaLink="false">https://tiktok.com/@motoloot/video/7528235985788865800</guid>
-      <pubDate>Fri, 18 Jul 2025 02:00:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 Aug 2025 01:35:11 +0000</lastBuildDate>
     <item>
       <title>this you and who?</title>
       <link>https://tiktok.com/@motoloot/video/7528501123783740680</link>
@@ -293,6 +285,14 @@
       <author>motoloot</author>
       <guid isPermaLink="false">https://tiktok.com/@motoloot/video/7540855902144843026</guid>
       <pubDate>Thu, 21 Aug 2025 02:12:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>At least he sees me!</title>
+      <link>https://tiktok.com/@motoloot/video/7541217430140357906</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/motoloot/screenshot_oYIPQADArk1TAsGRmLFdelFKeJZE7IAAoP5nEe~tplv-tiktokx-origin.image.jpg" /&gt; At least he sees me!</description>
+      <author>motoloot</author>
+      <guid isPermaLink="false">https://tiktok.com/@motoloot/video/7541217430140357906</guid>
+      <pubDate>Fri, 22 Aug 2025 01:35:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

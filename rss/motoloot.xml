@@ -13,15 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/motoloot.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Aug 2025 23:09:12 +0000</lastBuildDate>
-    <item>
-      <title>Is this normal?</title>
-      <link>https://tiktok.com/@motoloot/video/7528887594998844679</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/motoloot/screenshot_oMLa1AWh7AYfGU9AI8gfDWeJQ63eQdQAJPkAIG~tplv-tiktokx-origin.image.jpg" /&gt; Is this normal?</description>
-      <author>motoloot</author>
-      <guid isPermaLink="false">https://tiktok.com/@motoloot/video/7528887594998844679</guid>
-      <pubDate>Sat, 19 Jul 2025 20:09:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 23 Aug 2025 22:02:15 +0000</lastBuildDate>
     <item>
       <title>What a legend :D</title>
       <link>https://tiktok.com/@motoloot/video/7529341802248260872</link>
@@ -293,6 +285,14 @@
       <author>motoloot</author>
       <guid isPermaLink="false">https://tiktok.com/@motoloot/video/7541550874993167623</guid>
       <pubDate>Fri, 22 Aug 2025 23:09:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Am I?</title>
+      <link>https://tiktok.com/@motoloot/video/7541904707346877703</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/motoloot/screenshot_oAW7BUfDUEfCVGoCgOBgCqhjqCmAMEpAFAAlIg~tplv-tiktokx-origin.image.jpg" /&gt; Am I?</description>
+      <author>motoloot</author>
+      <guid isPermaLink="false">https://tiktok.com/@motoloot/video/7541904707346877703</guid>
+      <pubDate>Sat, 23 Aug 2025 22:02:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>katiebiker TikTok</title>
+    <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/katiebiker.xml</link>
+    <description>OK Boomer, all the latest TikToks from katiebiker</description>
+    <atom:link href="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/katiebiker.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/tiktok-rss.png</url>
+      <title>katiebiker TikTok</title>
+      <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/katiebiker.xml</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Mon, 08 Sep 2025 17:42:38 +0000</lastBuildDate>
+    <item>
+      <title>Thought it would be fun to create a little series of me learning how to ride a bike. So this is a little video of my gear, my bike and my background with bikes. #fyp #viral #bike #motorcycle </title>
+      <link>https://tiktok.com/@katiebiker/video/7545341701561371918</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/katiebiker/screenshot_o8RlkU2NMCcINAFjoH0IsIYDybIZA3fm1fcDEe~tplv-tiktokx-origin.image.jpg" /&gt; Thought it would be fun to create a little series of me learning how to ride a bike. So this is a little video of my gear, my bike and my background with bikes. #fyp #viral #bike #motorcycle </description>
+      <author>katiebiker</author>
+      <guid isPermaLink="false">https://tiktok.com/@katiebiker/video/7545341701561371918</guid>
+      <pubDate>Tue, 02 Sep 2025 04:20:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>I’m always so confident with it too 😔#ninja #500 #fyp #motorcycle </title>
+      <link>https://tiktok.com/@katiebiker/video/7545642634203712823</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/katiebiker/screenshot_og6GUFSDoBgukP9FE7n4HAIYEDf3ft3gwRIhy9~tplv-tiktokx-origin.image.jpg" /&gt; I’m always so confident with it too 😔#ninja #500 #fyp #motorcycle </description>
+      <author>katiebiker</author>
+      <guid isPermaLink="false">https://tiktok.com/@katiebiker/video/7545642634203712823</guid>
+      <pubDate>Tue, 02 Sep 2025 23:47:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>My first few lessons! I think I said like about 100 times lmao but it went well and I really am happy I decided to start riding even though it is definitely scary thing to start. Also thank you to everyone for the nice comments and support! I feel very we</title>
+      <link>https://tiktok.com/@katiebiker/video/7547774940309687607</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/katiebiker/screenshot_o0FzAFvfkLlCQRiEQiIGeZeQQJBzAhNOOIfrRG~tplv-tiktokx-origin.image.jpg" /&gt; My first few lessons! I think I said like about 100 times lmao but it went well and I really am happy I decided to start riding even though it is definitely scary thing to start. Also thank you to everyone for the nice comments and support! I feel very we</description>
+      <author>katiebiker</author>
+      <guid isPermaLink="false">https://tiktok.com/@katiebiker/video/7547774940309687607</guid>
+      <pubDate>Mon, 08 Sep 2025 17:42:38 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

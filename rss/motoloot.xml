@@ -13,15 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/motoloot.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Sep 2025 19:44:08 +0000</lastBuildDate>
-    <item>
-      <title>Now you know :D</title>
-      <link>https://tiktok.com/@motoloot/video/7544954414402948359</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/motoloot/screenshot_osEixBBsEyKKCgACwf5V1Io00AAEjBWLWAiwAA~tplv-tiktokx-origin.image.jpg" /&gt; Now you know :D</description>
-      <author>motoloot</author>
-      <guid isPermaLink="false">https://tiktok.com/@motoloot/video/7544954414402948359</guid>
-      <pubDate>Mon, 01 Sep 2025 03:16:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 Sep 2025 21:00:00 +0000</lastBuildDate>
     <item>
       <title>What was he doing?</title>
       <link>https://tiktok.com/@motoloot/video/7545261816683842834</link>
@@ -293,6 +285,14 @@
       <author>motoloot</author>
       <guid isPermaLink="false">https://tiktok.com/@motoloot/video/7552259514603506952</guid>
       <pubDate>Sat, 20 Sep 2025 19:44:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shine bright like a diamond.</title>
+      <link>https://tiktok.com/@motoloot/video/7552259734880013576</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/motoloot/screenshot_oUMnoQlgGzfhgEEmAIeMAnAA0LH8ARDEekErn8~tplv-tiktokx-origin.image.jpg" /&gt; Shine bright like a diamond.</description>
+      <author>motoloot</author>
+      <guid isPermaLink="false">https://tiktok.com/@motoloot/video/7552259734880013576</guid>
+      <pubDate>Sat, 20 Sep 2025 21:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

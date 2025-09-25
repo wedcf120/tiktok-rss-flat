@@ -13,7 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/i.gotnoface.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Sep 2025 12:45:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 05:30:15 +0000</lastBuildDate>
     <item>
       <title>No Title</title>
       <link>https://tiktok.com/@i.gotnoface/video/7532505525184089362</link>
@@ -157,6 +157,14 @@
       <author>i.gotnoface</author>
       <guid isPermaLink="false">https://tiktok.com/@i.gotnoface/video/7553264982922693895</guid>
       <pubDate>Tue, 23 Sep 2025 12:45:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>No Title</title>
+      <link>https://tiktok.com/@i.gotnoface/video/7553894895019117831</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/i.gotnoface/screenshot_oUmRBgfDUIfERQoE90PJ31hNUB2AgEM9FC0gIg~tplv-tiktokx-origin.image.jpg" /&gt; No Description</description>
+      <author>i.gotnoface</author>
+      <guid isPermaLink="false">https://tiktok.com/@i.gotnoface/video/7553894895019117831</guid>
+      <pubDate>Thu, 25 Sep 2025 05:30:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

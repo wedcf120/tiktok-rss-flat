@@ -13,15 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/motoloot.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Sep 2025 19:05:39 +0000</lastBuildDate>
-    <item>
-      <title>Ever seen this?</title>
-      <link>https://tiktok.com/@motoloot/video/7547461653709819154</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/motoloot/screenshot_oIfWIJhWOnU7FAo7qdJTQUEeAAFFGiAfe3DQAE~tplv-tiktokx-origin.image.jpg" /&gt; Ever seen this?</description>
-      <author>motoloot</author>
-      <guid isPermaLink="false">https://tiktok.com/@motoloot/video/7547461653709819154</guid>
-      <pubDate>Sun, 07 Sep 2025 23:45:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Sep 2025 20:15:00 +0000</lastBuildDate>
     <item>
       <title>Can you split to the front in your state?</title>
       <link>https://tiktok.com/@motoloot/video/7547836421445274888</link>
@@ -293,6 +285,14 @@
       <author>motoloot</author>
       <guid isPermaLink="false">https://tiktok.com/@motoloot/video/7554105023404215560</guid>
       <pubDate>Thu, 25 Sep 2025 19:05:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>How'd you react?</title>
+      <link>https://tiktok.com/@motoloot/video/7554493963714055431</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/motoloot/screenshot_oQDVENFyAXU8TvyWBADAIQ1lVfog9CDCAvEEfI~tplv-tiktokx-origin.image.jpg" /&gt; How'd you react?</description>
+      <author>motoloot</author>
+      <guid isPermaLink="false">https://tiktok.com/@motoloot/video/7554493963714055431</guid>
+      <pubDate>Fri, 26 Sep 2025 20:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

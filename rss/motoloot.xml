@@ -13,15 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/motoloot.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Oct 2025 19:56:24 +0000</lastBuildDate>
-    <item>
-      <title>Made for you.</title>
-      <link>https://tiktok.com/@motoloot/video/7552613415777258770</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/motoloot/screenshot_ooVfijAGeAJJAjGfJ7TgdYQAYLWfRQ0ARQIIG2~tplv-tiktokx-origin.image.jpg" /&gt; Made for you.</description>
-      <author>motoloot</author>
-      <guid isPermaLink="false">https://tiktok.com/@motoloot/video/7552613415777258770</guid>
-      <pubDate>Sun, 21 Sep 2025 19:55:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Oct 2025 17:39:53 +0000</lastBuildDate>
     <item>
       <title>Can't tell me it's not worth it.</title>
       <link>https://tiktok.com/@motoloot/video/7552645030490426631</link>
@@ -293,6 +285,14 @@
       <author>motoloot</author>
       <guid isPermaLink="false">https://tiktok.com/@motoloot/video/7562653045302119700</guid>
       <pubDate>Sat, 18 Oct 2025 19:56:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>What were they thinking :D</title>
+      <link>https://tiktok.com/@motoloot/video/7562988963116387604</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/motoloot/screenshot_owlYI3aQA19bDiivli3APzFBjApVlqExAIAAU~tplv-tiktokx-origin.image.jpg" /&gt; What were they thinking :D</description>
+      <author>motoloot</author>
+      <guid isPermaLink="false">https://tiktok.com/@motoloot/video/7562988963116387604</guid>
+      <pubDate>Sun, 19 Oct 2025 17:39:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -13,7 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/i.gotnoface.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Oct 2025 19:13:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 07:30:37 +0000</lastBuildDate>
     <item>
       <title>No Title</title>
       <link>https://tiktok.com/@i.gotnoface/video/7532505525184089362</link>
@@ -253,6 +253,14 @@
       <author>i.gotnoface</author>
       <guid isPermaLink="false">https://tiktok.com/@i.gotnoface/video/7566352786355473671</guid>
       <pubDate>Tue, 28 Oct 2025 19:13:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bike that can go 200km/h with ease.</title>
+      <link>https://tiktok.com/@i.gotnoface/video/7566542804441206023</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/i.gotnoface/screenshot_adbf749aaf6b439f897055b729c68cf6~tplv-photomode-image.jpeg.jpg" /&gt; Bike that can go 200km/h with ease.</description>
+      <author>i.gotnoface</author>
+      <guid isPermaLink="false">https://tiktok.com/@i.gotnoface/video/7566542804441206023</guid>
+      <pubDate>Wed, 29 Oct 2025 07:30:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

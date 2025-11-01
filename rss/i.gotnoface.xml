@@ -13,7 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/i.gotnoface.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Oct 2025 03:38:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 02:34:51 +0000</lastBuildDate>
     <item>
       <title>No Title</title>
       <link>https://tiktok.com/@i.gotnoface/video/7532505525184089362</link>
@@ -216,6 +216,14 @@
     </item>
     <item>
       <title>No Title</title>
+      <link>https://tiktok.com/@i.gotnoface/video/7559889946056690951</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/i.gotnoface/screenshot_8b68db9ace4f4e54ba3ee8a721635354~tplv-photomode-image.jpeg.jpg" /&gt; No Description</description>
+      <author>i.gotnoface</author>
+      <guid isPermaLink="false">https://tiktok.com/@i.gotnoface/video/7559889946056690951</guid>
+      <pubDate>Sat, 11 Oct 2025 09:14:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>No Title</title>
       <link>https://tiktok.com/@i.gotnoface/video/7562161731141668103</link>
       <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/i.gotnoface/screenshot_o4BEB8AceQAjTsstmHZGkfDaygEhkBDvoQTRWF~tplv-tiktokx-origin.image.jpg" /&gt; No Description</description>
       <author>i.gotnoface</author>
@@ -253,6 +261,14 @@
       <author>i.gotnoface</author>
       <guid isPermaLink="false">https://tiktok.com/@i.gotnoface/video/7567225060424011026</guid>
       <pubDate>Fri, 31 Oct 2025 03:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>No Title</title>
+      <link>https://tiktok.com/@i.gotnoface/video/7567579846398856466</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/i.gotnoface/screenshot_3baa7bb698554ddba9937c2bfe34a933~tplv-photomode-image.jpeg.jpg" /&gt; No Description</description>
+      <author>i.gotnoface</author>
+      <guid isPermaLink="false">https://tiktok.com/@i.gotnoface/video/7567579846398856466</guid>
+      <pubDate>Sat, 01 Nov 2025 02:34:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

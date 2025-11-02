@@ -13,15 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/motoloot.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Nov 2025 17:42:05 +0000</lastBuildDate>
-    <item>
-      <title>Don't do this.</title>
-      <link>https://tiktok.com/@motoloot/video/7556796228017605895</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/motoloot/screenshot_ooQegAMAtR1fA8GGJLNeeD0y4hhSfIAAgkIDSA~tplv-tiktokx-origin.image.jpg" /&gt; Don't do this.</description>
-      <author>motoloot</author>
-      <guid isPermaLink="false">https://tiktok.com/@motoloot/video/7556796228017605895</guid>
-      <pubDate>Fri, 03 Oct 2025 01:08:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Nov 2025 17:59:10 +0000</lastBuildDate>
     <item>
       <title>Do you do this?</title>
       <link>https://tiktok.com/@motoloot/video/7557079723822648584</link>
@@ -293,6 +285,14 @@
       <author>motoloot</author>
       <guid isPermaLink="false">https://tiktok.com/@motoloot/video/7567813640804470037</guid>
       <pubDate>Sat, 01 Nov 2025 17:42:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your favorite?</title>
+      <link>https://tiktok.com/@motoloot/video/7568189115020217620</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/motoloot/screenshot_o4bmeXAvtQA1FAekAeAkQNIP8fJATJGQzMcWHW~tplv-tiktokx-origin.image.jpg" /&gt; Your favorite?</description>
+      <author>motoloot</author>
+      <guid isPermaLink="false">https://tiktok.com/@motoloot/video/7568189115020217620</guid>
+      <pubDate>Sun, 02 Nov 2025 17:59:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

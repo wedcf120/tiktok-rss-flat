@@ -13,7 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/inigal.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Nov 2025 20:41:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 17:42:52 +0000</lastBuildDate>
     <item>
       <title>😂😂</title>
       <link>https://tiktok.com/@inigal/video/7475011917669633303</link>
@@ -117,6 +117,14 @@
       <author>inigal</author>
       <guid isPermaLink="false">https://tiktok.com/@inigal/video/7578250192567242006</guid>
       <pubDate>Sat, 29 Nov 2025 20:41:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>No Title</title>
+      <link>https://tiktok.com/@inigal/video/7580430740387777814</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/inigal/screenshot_o8BMkQQQDComxBMhgEfzAfGR0FHX5pFEbiORDm~tplv-tiktokx-origin.image.jpg" /&gt; No Description</description>
+      <author>inigal</author>
+      <guid isPermaLink="false">https://tiktok.com/@inigal/video/7580430740387777814</guid>
+      <pubDate>Fri, 05 Dec 2025 17:42:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

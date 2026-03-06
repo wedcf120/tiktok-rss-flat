@@ -13,15 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/mikki.usa.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Mar 2026 23:47:36 +0000</lastBuildDate>
-    <item>
-      <title>No Title</title>
-      <link>https://tiktok.com/@mikki.usa/video/7451174382208126251</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/mikki.usa/screenshot_oMhOO7MBlAGeCj3xAEFCz4kDtfmC27eEHICtnI~tplv-tiktokx-origin.image.jpg" /&gt; No Description</description>
-      <author>mikki.usa</author>
-      <guid isPermaLink="false">https://tiktok.com/@mikki.usa/video/7451174382208126251</guid>
-      <pubDate>Sun, 22 Dec 2024 10:02:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Mar 2026 09:34:08 +0000</lastBuildDate>
     <item>
       <title>Vibes😍</title>
       <link>https://tiktok.com/@mikki.usa/video/7451265603827977514</link>
@@ -253,6 +245,14 @@
       <author>mikki.usa</author>
       <guid isPermaLink="false">https://tiktok.com/@mikki.usa/video/7612809023691214094</guid>
       <pubDate>Mon, 02 Mar 2026 23:47:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀</title>
+      <link>https://tiktok.com/@mikki.usa/video/7613702407070960910</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/mikki.usa/screenshot_ospqiekTIgUKB3NEIrGpTDAVDRFhJSfdIgVDxE~tplv-tiktokx-origin.image.jpg" /&gt; 👀</description>
+      <author>mikki.usa</author>
+      <guid isPermaLink="false">https://tiktok.com/@mikki.usa/video/7613702407070960910</guid>
+      <pubDate>Thu, 05 Mar 2026 09:34:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

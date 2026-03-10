@@ -13,15 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/thoughtaken.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 16:01:50 +0000</lastBuildDate>
-    <item>
-      <title>i’m trying to be legal here 👆</title>
-      <link>https://tiktok.com/@thoughtaken/video/7605280896652004622</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/thoughtaken/screenshot_oQECLi0LbAgcBVBwIfSAbpBwiLYn0x9ctuEAIu~tplv-tiktokx-origin.image.jpg" /&gt; i’m trying to be legal here 👆</description>
-      <author>thoughtaken</author>
-      <guid isPermaLink="false">https://tiktok.com/@thoughtaken/video/7605280896652004622</guid>
-      <pubDate>Tue, 10 Feb 2026 16:55:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Mar 2026 14:00:28 +0000</lastBuildDate>
     <item>
       <title>dealer said not to ride it any further</title>
       <link>https://tiktok.com/@thoughtaken/video/7605594926780271902</link>
@@ -245,6 +237,14 @@
       <author>thoughtaken</author>
       <guid isPermaLink="false">https://tiktok.com/@thoughtaken/video/7615286652738587918</guid>
       <pubDate>Mon, 09 Mar 2026 16:01:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>comparing bike sizes</title>
+      <link>https://tiktok.com/@thoughtaken/video/7615626340410084622</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/thoughtaken/screenshot_owFOefD0F4pfwRgvKGBmAFuRLyhQQIFfAmIvSE~tplv-tiktokx-origin.image.jpg" /&gt; comparing bike sizes</description>
+      <author>thoughtaken</author>
+      <guid isPermaLink="false">https://tiktok.com/@thoughtaken/video/7615626340410084622</guid>
+      <pubDate>Tue, 10 Mar 2026 14:00:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

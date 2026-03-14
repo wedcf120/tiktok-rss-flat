@@ -13,15 +13,7 @@
       <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/quietlyretired.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Mar 2026 04:58:55 +0000</lastBuildDate>
-    <item>
-      <title>No Title</title>
-      <link>https://tiktok.com/@quietlyretired/video/7489254676978797855</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/quietlyretired/screenshot_oYYvfpA7fAE9R1DFABRn3XCtLiEViEAjzyAIcy~tplv-tiktokx-origin.image.jpg" /&gt; No Description</description>
-      <author>quietlyretired</author>
-      <guid isPermaLink="false">https://tiktok.com/@quietlyretired/video/7489254676978797855</guid>
-      <pubDate>Fri, 04 Apr 2025 00:53:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 Mar 2026 00:54:13 +0000</lastBuildDate>
     <item>
       <title>No Title</title>
       <link>https://tiktok.com/@quietlyretired/video/7490362634487876895</link>
@@ -253,6 +245,14 @@
       <author>quietlyretired</author>
       <guid isPermaLink="false">https://tiktok.com/@quietlyretired/video/7615486861603081503</guid>
       <pubDate>Tue, 10 Mar 2026 04:58:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>No Title</title>
+      <link>https://tiktok.com/@quietlyretired/video/7616908201337949471</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/quietlyretired/screenshot_oIESEAREEEAfbIC0ApAAWdp6VCFGZstDL7508e~tplv-tiktokx-origin.image.jpg" /&gt; No Description</description>
+      <author>quietlyretired</author>
+      <guid isPermaLink="false">https://tiktok.com/@quietlyretired/video/7616908201337949471</guid>
+      <pubDate>Sat, 14 Mar 2026 00:54:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
